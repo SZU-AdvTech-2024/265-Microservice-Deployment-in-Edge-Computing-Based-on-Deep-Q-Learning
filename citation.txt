@@ -1,0 +1,10 @@
+@article{REPO265,
+    author = "Lv, Wenkai and Wang, Quan and Yang, Pengfei and Ding, Yunqing and Yi, Bijie and Wang, Zhenyi and Lin, Chengmin",
+    journal = "IEEE Transactions on Parallel and Distributed Systems",
+    number = "11",
+    pages = "2968--2978",
+    publisher = "IEEE",
+    title = "{Microservice deployment in edge computing based on deep Q learning}",
+    volume = "33",
+    year = "2022"
+}
